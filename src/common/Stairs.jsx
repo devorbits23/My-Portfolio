@@ -63,7 +63,7 @@ const Stairs = ({ children }) => {
         {["D", "E", "V", "O", "R", "B", "I", "T", "S"].map((letter, i) => (
           <div
             key={i}
-            className="stair flex-1 h-full bg-blue-900 flex items-center justify-center"
+            className="stair flex-1 h-full bg-gradient-to-tr from-blue-900 via-indigo-900 to-cyan-900 flex items-center justify-center"
           >
             <span className="stair-text font-extrabold text-5xl tracking-widest drop-shadow-lg">
               {letter}
