@@ -21,7 +21,7 @@ const Contact = () => {
       <div className="max-w-5xl mx-auto grid grid-cols-1 md:grid-cols-3 gap-10">
         {/* Instagram DM */}
         <a
-          href="https://instagram.com/yourusername"
+          href="https://www.instagram.com/dev_orbits/"
           target="_blank"
           rel="noopener noreferrer"
           className="group border border-gray-700 rounded-2xl p-8 

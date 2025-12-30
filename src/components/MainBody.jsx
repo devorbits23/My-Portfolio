@@ -62,7 +62,7 @@ const MainBody = () => {
 
       {/* Bottom Section: Social Media Buttons */}
       <div className="socialmedia mt-24 flex flex-col md:flex-row justify-between gap-6 w-">
-        <a href="https://github.com/pathaksanchit25-coder" target="_blank" rel="noopener noreferrer"
+        <a href="https://github.com/devorbits23" target="_blank" rel="noopener noreferrer"
            className="flex items-center justify-between w-64 px-6 py-4 rounded-xl 
                       bg-white/10 backdrop-blur-md text-gray-200 font-semibold 
                       hover:bg-indigo-500 hover:text-white transition-all duration-300 shadow-lg">
@@ -70,7 +70,7 @@ const MainBody = () => {
           <span className="text-lg">GitHub</span>
         </a>
 
-        <a href="https://instagram.com/yourusername" target="_blank" rel="noopener noreferrer"
+        <a href="https://www.instagram.com/dev_orbits/" target="_blank" rel="noopener noreferrer"
            className="flex items-center justify-between w-64 px-6 py-4 rounded-xl 
                       bg-white/10 backdrop-blur-md text-gray-200 font-semibold 
                       hover:bg-pink-500 hover:text-white transition-all duration-300 shadow-lg">
@@ -78,7 +78,7 @@ const MainBody = () => {
           <span className="text-lg">Instagram</span>
         </a>
 
-        <a href="https://youtube.com/yourchannel" target="_blank" rel="noopener noreferrer"
+        <a href="https://youtube.com/@DevOrbits-u2z" target="_blank" rel="noopener noreferrer"
            className="flex items-center justify-between w-64 px-6 py-4 rounded-xl 
                       bg-white/10 backdrop-blur-md text-gray-200 font-semibold 
                       hover:bg-red-600 hover:text-white transition-all duration-300 shadow-lg">
