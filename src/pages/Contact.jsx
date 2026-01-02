@@ -21,7 +21,7 @@ const Contact = () => {
       <div className="max-w-5xl mx-auto grid grid-cols-1 md:grid-cols-3 gap-10">
         {/* Instagram DM */}
         <a
-          href="https://www.instagram.com/dev_orbits/"
+          href="https://www.instagram.com/zen_orbits"
           target="_blank"
           rel="noopener noreferrer"
           className="group border border-gray-700 rounded-2xl p-8 
@@ -37,7 +37,7 @@ const Contact = () => {
 
         {/* Email */}
         <a
-          href="mailto:devorbits23@gmail.com"
+          href="mailto:zenorbits29@gmail.com"
           className="group border border-gray-700 rounded-2xl p-8 
                      bg-gradient-to-br from-[#0f172a]/80 via-[#1e293b]/70 to-[#0f172a]/80 
                      backdrop-blur-md shadow-md transition-all duration-500 
@@ -46,12 +46,12 @@ const Contact = () => {
         >
           <FaEnvelope size={36} className="text-blue-400 mb-4 group-hover:text-blue-300 transition-colors" />
           <h3 className="text-lg font-semibold text-white">Email</h3>
-          <p className="text-gray-400 text-sm mt-2">devorbits23@gmail.com</p>
+          <p className="text-gray-400 text-sm mt-2">zenorbits29@gmail.com</p>
         </a>
 
         {/* LinkedIn */}
         <a
-          href="https://linkedin.com/in/yourusername"
+          href="https://www.linkedin.com/in/sanchit-pathak-5a19b13a2/"
           target="_blank"
           rel="noopener noreferrer"
           className="group border border-gray-700 rounded-2xl p-8 

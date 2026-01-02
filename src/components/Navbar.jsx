@@ -36,7 +36,7 @@ const Navbar = () => {
                 {/* GitHub Button (desktop only) */}
                 <div className="github-button hidden md:block">
                     <a
-                        href="https://github.com/devorbits23"
+                        href="https://github.com/zenorbits"
                         target="_blank"
                         rel="noopener noreferrer"
                     >
@@ -73,7 +73,7 @@ const Navbar = () => {
                     <Link to = '/services' onClick={() => setMenuOpen(false)} className="hover:text-gray-100">Services</Link>
                     <Link to = '/contact' onClick={() => setMenuOpen(false)} className="hover:text-gray-100">Contact</Link>
                     <a
-                        href="https://github.com/pathaksanchit25-coder"
+                        href="https://github.com/zenorbits"
                         target="_blank"
                         rel="noopener noreferrer"
                         className="flex items-center gap-2 border border-gray-400 px-4 py-2 rounded-lg text-gray-200 hover:bg-gray-200 hover:text-[#0f172a] transition-all duration-300"
