@@ -61,7 +61,7 @@ const MainBody = () => {
       </div>
 
       {/* Bottom Section: Social Media Buttons */}
-      <div className="socialmedia mt-24 flex flex-col md:flex-row justify-between gap-6 w-full items-center">
+      <div className="socialmedia mt-32 flex flex-col md:flex-row justify-between gap-6 w-full items-center">
         <a href="https://github.com/devorbits23" target="_blank" rel="noopener noreferrer"
            className="flex items-center justify-between w-64 px-6 py-4 rounded-xl 
                       bg-white/10 backdrop-blur-md text-gray-200 font-semibold 
